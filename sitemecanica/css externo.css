@@ -1,0 +1,44 @@
+
+
+
+
+<style>
+body style="background-color: rgb(195, 203, 231)">
+
+    <h1 style="background-color: brown  ;text-align:center;color:rgb(2, 7, 0)">Center Car Menechelli</h1> 
+        <hr>
+    
+    <a href="sobre a empresa.html" target="_self"> <button style="color:rgb(38, 22, 143)"><b>Sobre a Empresa</a></b></button>
+    <a href="localização.html" target="_self"> <button style="color:rgb(38, 22, 143)"><b>Localização</a></b></button>
+    <a href="serviços.html" target="_self"> <button style="color:rgb(38, 22, 143)"><b>Serviços</a></b></button>
+    <a href="dicas.html" target="_self"> <button style="color:rgb(38, 22, 143)"><b>Dicas</a></b></button><br>
+
+
+
+
+
+
+    <style>
+        p {color: rgb(165, 179, 156);text-align:right;}
+body{color :rgb(11, 5, 41);
+        background-color: rgb(36, 35, 29);
+            font-family: 'Courier New', Courier, monospace;
+                border-top:brown dotted 5px;
+                border-left:blue dotted 20px;    
+                border-radius:10px;
+                padding:25px;
+                margin: 50px;
+
+}
+#rodape {background-color: black;
+color: white;}
+
+.texto{color: yellowgreen;}
+    
+
+
+</style>
+</style>
+
+
+
